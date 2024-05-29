@@ -3,3 +3,5 @@
 ## This Malware/Rat Does Not Turn On Unless You Run It
 ## Its An Executable 
 # Your Requirements: Python, Windows 10/11
+# Targets Requiremenrs: Windows 10/10,
+
